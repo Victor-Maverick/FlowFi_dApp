@@ -1,6 +1,6 @@
 /*
-/// Module: contract
-module contract::contract;
+/// Module: smartcontract
+module smartcontract::smartcontract;
 */
 
 // For Move coding conventions, see
